@@ -1,0 +1,26 @@
+body { background-image: url(pic/background29.png);
+	   background-repeat: repeat;
+	   display: flex;
+	   justify-content: center;
+	   align-items: center;
+}
+   
+#plank {
+	width: 100vw;
+	height: 10vh;
+	border: 1px solid transparent;
+	border-radius: 10px;
+	display: inline-flex;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+}
+
+.lezu {
+	width: 19%;
+	height: 100%;
+}
+
+.aybB {
+	width: 39%;
+	height: 100%;
+}
